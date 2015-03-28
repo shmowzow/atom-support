@@ -1,6 +1,6 @@
 {
   "name": "language-shmowzow",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Shmowzow's syntax highlighting support for Atom",
   "repository": {
     "type": "git",
