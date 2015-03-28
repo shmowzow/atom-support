@@ -1,0 +1,22 @@
+{
+  "name": "language-shmowzow",
+  "version": "0.0.1",
+  "description": "Shmowzow's syntax highlighting support for Atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shmowzow/atom-support"
+  },
+  "bugs": {
+    "url": "https://github.com/shmowzow/atom-support/issues"
+  },
+  "homepage": "https://github.com/shmowzow/atom-support",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Matheus Brasil"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}

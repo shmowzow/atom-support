@@ -1,0 +1,27 @@
+'fileTypes': [
+  'finn'
+]
+'name': 'Shmowzow'
+'patterns': [
+  {
+    'match': 'Shmowzow|shmowzoW'
+    'name': 'keyword.control.finn'
+  }
+  {
+    'match': 'SHMOWZOW|shmowzow'
+    'name': 'constant.numeric.finn'
+  }
+  {
+    'match': 'ShMoWzOw|sHmOwZoW'
+    'name': 'storage.type'
+  }
+  {
+    'match': 'ShmoWzow|sHMOwZOW'
+    'name': 'entity.name.function'
+  }
+  {
+    'match': '(c:).*$\n?'
+    'name': 'comment'
+  }
+]
+'scopeName': 'source.finn'
