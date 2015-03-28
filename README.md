@@ -38,3 +38,16 @@ $ git clone git://github.com/shmowzow/atom-support
 5. On the Settings tab go to `Install` and search for `language-shmowzow`
 6. Then just hit `Install`
 7. Have fun!
+
+## Commands/Scopes
+
+Command     		      | Scope																																														
+---						  | ---  																																															
+`Shmowzow` / `shmowzoW`   | `keyword.control`  																														   
+`SHMOWZOW` / `shmowzow`   | `constant.numeric`																															
+`ShMoWzOw` / `sHmOwZoW`	  | `storage.type`																																			 
+`ShmoWzow` / `sHMOwZOW`   | `entity.name.function`																																		
+`c:` 					  | `comment`																																							
+
+> *Remember*: The `c:` command is not actually used for comments if you intend to build your `.finn` program - since as
+said before Shmowzow doesn't support commenting yet -, it just makes the things *more beautiful*.  
